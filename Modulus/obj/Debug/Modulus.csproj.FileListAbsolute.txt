@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Modulus\obj\Debug\Modulu
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Modulus\obj\Debug\Modulus.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Modulus\obj\Debug\Modulus.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Modulus\obj\Debug\Modulus.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Modulus\obj\Debug\Modulus.exe.config

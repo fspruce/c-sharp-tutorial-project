@@ -1,8 +1,0 @@
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\bin\Debug\If.exe.config
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\bin\Debug\If.exe
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\bin\Debug\If.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\obj\Debug\If.csproj.AssemblyReference.cache
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\obj\Debug\If.csproj.CoreCompileInputs.cache
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\obj\Debug\If.exe
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\obj\Debug\If.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\If\obj\Debug\If.exe.config

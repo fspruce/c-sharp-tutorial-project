@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Conversions\obj\Debug\Co
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Conversions\obj\Debug\Conversions.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Conversions\obj\Debug\Conversions.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Conversions\obj\Debug\Conversions.exe.config

@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\String_Chars\obj\Debug\S
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\String_Chars\obj\Debug\String_Chars.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\String_Chars\obj\Debug\String_Chars.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\String_Chars\obj\Debug\String_Chars.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\String_Chars\obj\Debug\String_Chars.exe.config

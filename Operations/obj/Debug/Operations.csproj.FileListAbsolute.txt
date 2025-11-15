@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Ope
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.exe.config

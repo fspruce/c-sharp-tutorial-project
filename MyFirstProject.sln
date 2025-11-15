@@ -36,6 +36,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitIgnore = .gitIgnore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{C11B0E17-FA52-4BF8-B6B5-763412D3EEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "For\For.csproj", "{0FFB72BF-E889-4F1A-A61D-3EC57A76FD11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +102,14 @@ Global
 		{1F286B7F-6EC2-48AB-9685-CFB4F8A5387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F286B7F-6EC2-48AB-9685-CFB4F8A5387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F286B7F-6EC2-48AB-9685-CFB4F8A5387E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11B0E17-FA52-4BF8-B6B5-763412D3EEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11B0E17-FA52-4BF8-B6B5-763412D3EEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11B0E17-FA52-4BF8-B6B5-763412D3EEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11B0E17-FA52-4BF8-B6B5-763412D3EEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFB72BF-E889-4F1A-A61D-3EC57A76FD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFB72BF-E889-4F1A-A61D-3EC57A76FD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFB72BF-E889-4F1A-A61D-3EC57A76FD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFB72BF-E889-4F1A-A61D-3EC57A76FD11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

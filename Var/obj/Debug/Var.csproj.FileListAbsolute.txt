@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Var\obj\Debug\Var.csproj
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Var\obj\Debug\Var.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Var\obj\Debug\Var.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Var\obj\Debug\Var.exe.config

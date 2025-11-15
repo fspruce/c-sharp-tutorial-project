@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\Hel
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.exe.config

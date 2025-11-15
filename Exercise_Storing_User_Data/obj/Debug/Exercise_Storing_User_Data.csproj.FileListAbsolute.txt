@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Storing_User_Da
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Storing_User_Data\obj\Debug\Exercise_Storing_User_Data.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Storing_User_Data\obj\Debug\Exercise_Storing_User_Data.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Storing_User_Data\obj\Debug\Exercise_Storing_User_Data.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Storing_User_Data\obj\Debug\Exercise_Storing_User_Data.exe.config

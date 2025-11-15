@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Odd_Even_Checke
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Odd_Even_Checker\obj\Debug\Exercise_Odd_Even_Checker.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Odd_Even_Checker\obj\Debug\Exercise_Odd_Even_Checker.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Odd_Even_Checker\obj\Debug\Exercise_Odd_Even_Checker.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Odd_Even_Checker\obj\Debug\Exercise_Odd_Even_Checker.exe.config

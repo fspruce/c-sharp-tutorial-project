@@ -5,4 +5,3 @@ C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Constants\obj\Debug\Cons
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Constants\obj\Debug\Constants.exe
 C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Constants\obj\Debug\Constants.pdb
-C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Constants\obj\Debug\Constants.exe.config
