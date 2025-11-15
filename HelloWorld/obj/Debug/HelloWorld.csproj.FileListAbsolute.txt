@@ -1,0 +1,8 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\HelloWorld\obj\Debug\HelloWorld.exe.config

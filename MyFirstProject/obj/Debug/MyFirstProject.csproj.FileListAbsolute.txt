@@ -1,0 +1,7 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

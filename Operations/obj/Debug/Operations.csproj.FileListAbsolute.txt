@@ -1,0 +1,8 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\bin\Debug\Operations.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\bin\Debug\Operations.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\bin\Debug\Operations.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Operations\obj\Debug\Operations.exe.config
