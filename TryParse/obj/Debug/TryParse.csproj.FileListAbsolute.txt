@@ -1,0 +1,8 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\bin\Debug\TryParse.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\obj\Debug\TryParse.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\obj\Debug\TryParse.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\TryParse\obj\Debug\TryParse.exe.config

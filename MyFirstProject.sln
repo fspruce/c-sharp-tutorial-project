@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperator", "Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Format", "Format\Format.csproj", "{1C3FEC96-8C4D-4D2C-9623-1A9AF44C8D47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{1C3FEC96-8C4D-4D2C-9623-1A9AF44C8D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C3FEC96-8C4D-4D2C-9623-1A9AF44C8D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C3FEC96-8C4D-4D2C-9623-1A9AF44C8D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
