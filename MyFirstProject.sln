@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Format", "Format\Format.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Times_Tables", "Exercise_Times_Tables\Exercise_Times_Tables.csproj", "{FE89E691-9284-4AD8-928C-A63DA430D435}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,6 +136,10 @@ Global
 		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08DDF2A0-95F4-49E1-B6BD-CFF80F2F27AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE89E691-9284-4AD8-928C-A63DA430D435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE89E691-9284-4AD8-928C-A63DA430D435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE89E691-9284-4AD8-928C-A63DA430D435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE89E691-9284-4AD8-928C-A63DA430D435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

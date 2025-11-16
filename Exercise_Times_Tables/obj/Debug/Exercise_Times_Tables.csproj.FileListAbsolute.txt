@@ -1,0 +1,8 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\bin\Debug\Exercise_Times_Tables.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\bin\Debug\Exercise_Times_Tables.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\bin\Debug\Exercise_Times_Tables.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\obj\Debug\Exercise_Times_Tables.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\obj\Debug\Exercise_Times_Tables.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\obj\Debug\Exercise_Times_Tables.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\obj\Debug\Exercise_Times_Tables.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Times_Tables\obj\Debug\Exercise_Times_Tables.exe.config
