@@ -29,23 +29,23 @@ namespace Exercise_Fizz_Buzz
             {
                 Console.Write("Enter an integer for how many numbers you want to go through: ");
                 success = int.TryParse(Console.ReadLine(), out loopCount);
-                Console.WriteLine();
-                string output = "";
+            }
 
-                for (int i = 1; i <= loopCount; i++) 
+            Console.WriteLine();
+            string output = "";
+
+            for (int i = 1; i <= loopCount; i++)
+            {
+                if (i % 3 == 0)
                 {
-                    if (i % 3 == 0)
-                    {
-                        output += "Fizz";
-                    }
-                    if (i % 5 == 0)
-                    {
-                        output += "Buzz";
-                    }
-                    Console.WriteLine(output != "" ? output : $"{i}");
-                    output = "";
+                    output += "Fizz";
                 }
-
+                if (i % 5 == 0)
+                {
+                    output += "Buzz";
+                }
+                Console.WriteLine(output != "" ? output : $"{i}");
+                output = "";
             }
 
             Console.ReadLine();
