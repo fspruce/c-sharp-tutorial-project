@@ -1,0 +1,8 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\bin\Debug\Exercise_Fizz_Buzz.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\bin\Debug\Exercise_Fizz_Buzz.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\bin\Debug\Exercise_Fizz_Buzz.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\obj\Debug\Exercise_Fizz_Buzz.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\obj\Debug\Exercise_Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\obj\Debug\Exercise_Fizz_Buzz.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\obj\Debug\Exercise_Fizz_Buzz.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Fizz_Buzz\obj\Debug\Exercise_Fizz_Buzz.exe.config

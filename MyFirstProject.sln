@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Times_Tables", "Exercise_Times_Tables\Exercise_Times_Tables.csproj", "{FE89E691-9284-4AD8-928C-A63DA430D435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Fizz_Buzz", "Exercise_Fizz_Buzz\Exercise_Fizz_Buzz.csproj", "{51E5CC44-5A2A-4134-BEB2-46F18C8142A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{FE89E691-9284-4AD8-928C-A63DA430D435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE89E691-9284-4AD8-928C-A63DA430D435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE89E691-9284-4AD8-928C-A63DA430D435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E5CC44-5A2A-4134-BEB2-46F18C8142A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E5CC44-5A2A-4134-BEB2-46F18C8142A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E5CC44-5A2A-4134-BEB2-46F18C8142A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E5CC44-5A2A-4134-BEB2-46F18C8142A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
