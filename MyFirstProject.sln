@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11206.111 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProject", "MyFirstProject\MyFirstProject.csproj", "{6FB7F5F1-2F19-418E-93DE-C42D1A326CA9}"
 EndProject
@@ -53,6 +53,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Fizz_Buzz", "Exercise_Fizz_Buzz\Exercise_Fizz_Buzz.csproj", "{51E5CC44-5A2A-4134-BEB2-46F18C8142A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output", "Output\Output.csproj", "{1A0F42F9-3ED9-44C8-92D9-794F53135C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeFormatting", "CompositeFormatting\CompositeFormatting.csproj", "{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -152,6 +154,10 @@ Global
 		{1A0F42F9-3ED9-44C8-92D9-794F53135C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A0F42F9-3ED9-44C8-92D9-794F53135C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A0F42F9-3ED9-44C8-92D9-794F53135C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

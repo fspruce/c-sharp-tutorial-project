@@ -1,0 +1,7 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\bin\Debug\CompositeFormatting.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\bin\Debug\CompositeFormatting.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\bin\Debug\CompositeFormatting.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\obj\Debug\CompositeFormatting.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\obj\Debug\CompositeFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\obj\Debug\CompositeFormatting.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\CompositeFormatting\obj\Debug\CompositeFormatting.pdb
