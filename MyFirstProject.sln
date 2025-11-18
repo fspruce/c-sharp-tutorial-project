@@ -56,6 +56,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output", "Output\Output.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeFormatting", "CompositeFormatting\CompositeFormatting.csproj", "{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyString", "EmptyString\EmptyString.csproj", "{2002044B-2F09-4D99-858A-1FA15739A99C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -158,6 +160,10 @@ Global
 		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C80B74-638F-4A0C-A197-B54CC7CE3DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2002044B-2F09-4D99-858A-1FA15739A99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2002044B-2F09-4D99-858A-1FA15739A99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2002044B-2F09-4D99-858A-1FA15739A99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2002044B-2F09-4D99-858A-1FA15739A99C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
