@@ -25,6 +25,10 @@ namespace CompositeFormatting
             Console.WriteLine("Your name is " + name + ", and your age is " + age);
             Console.WriteLine("Name: " + name + "\nAge: " + age);
             Console.WriteLine();
+            //You can also use string.Concat to avoid using + to concatenate.
+            string test = string.Concat("Your name is ", name, " and your age is ", age);
+            Console.WriteLine(test);
+            Console.WriteLine();
             //Composite formatting is shorter than concatenation. **
             Console.WriteLine("Your name is {0}, and your age is {1}", name, age);
             Console.WriteLine("Name: {0}\nAge: {1}", name, age);
