@@ -1,0 +1,7 @@
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\bin\Debug\Exercise_Print_String_In_Reverse.exe.config
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\bin\Debug\Exercise_Print_String_In_Reverse.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\bin\Debug\Exercise_Print_String_In_Reverse.pdb
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\obj\Debug\Exercise_Print_String_In_Reverse.csproj.AssemblyReference.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\obj\Debug\Exercise_Print_String_In_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\obj\Debug\Exercise_Print_String_In_Reverse.exe
+C:\Users\Fintan Spruce\Desktop\Coding\C#\MyFirstProject\Exercise_Print_String_In_Reverse\obj\Debug\Exercise_Print_String_In_Reverse.pdb
